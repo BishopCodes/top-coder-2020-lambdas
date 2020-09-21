@@ -1,0 +1,1104 @@
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
+ENGL101 Proficiency in Writing 03/04/2013 3.00 3.00 B+ 10.0
+HIST101 American History to 1877 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+SOCI212 Social Problems 06/03/2013 07/28/2013 3.00 3.00 A 12.0
+HIST222 African-American since 07/01/2013 08/25/2013 3.00 3.00 A 12.0
+IRLS210 International Relations I 11/04/2013 12/29/2013 3.00 3.00 A
+PHIL200 Introduction to Ethics 12/29/2013 3.00 3.00 B 9.0
+LITR221 American Literature from The Civil War to Present 12/02/2013 01/26/2014 3.00 3.00 A 12.0
+CHFD220 Human Sexuality 01/06/2014 03/02/2014 3.00 3.00 B 9.0
+SCIN130 Introduction to Biology with Lab 01/06/2014 03/02/2014 4.00 4.00 C+ 9.3
+ENGL102 in Writing 08/04/2014 09/28/2014 3.00 C+ 7.0
+SOCI111 Introduction to Sociology 08/04/2014 09/28/2014 3.00 3.00 A- 11.0
+CHFD342 Human Life Span Development 10/06/2014 11/30/2014 3.00 3.00 B 9.0
+PSYC221 Personality Theories 10/06/2014 11/30/2014 3.00 3.00 A 12.0
+PSYC324 Psychology of Addiction & Substance Abuse 10/06/2014 11/30/2014 3.00 3.00 B+ 10.0
+CHFD307 Child and Adolescent Developmen 12/01/2014 01/25/2015 3.00 3.00 A- 11.0
+CHFD308 Infant-Toddler Development 12/01/2014 01/25/2015 3.00 B- 8.0
+PSYC460 Sports Psychology 12/01/2014 01/25/2015 3.00 B 9.0
+PSYC102 Professional Careers and Education in Psychology 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC303 Learning and Cognition 01/05/2015 03/01/2015 3.00 3.00 B- 8.0
+PSYC304 Perception 03/02/2015 04/26/2015 3.00 0.00 R 0.0
+PSYC325 Biopsychology 03/02/2015 3.00 0.00 R 0.0
+PSYC406 Psychopathology 04/26/2015 3.00 3.00 4.0
+PSYC305 History and Systems Psychology 04/06/2015 05/31/2015 3.00 0.00 R 0.0
+SOCI332 Statistics for Social Science 04/06/2015 05/31/2015 3.00 0.00 F 0.0
+PSYC304 Perception 06/01/2015 07/26/2015 3.00 0.00 F 0.0
+PSYC325 Biopsychology 06/01/2015 07/26/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 07/06/2015 08/30/2015 3.00 0.00 R 0.0
+PSYC305 History and Systems of Psychology 10/01/2018 11/25/2018 3.00 3.00 C- 5.0
+PSYC325 Biopsychology 12/03/2018 01/27/2019 3.00 0.00 F 0.0
+COLL100 Foundations of Online Learning 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+HIST101 American History to 1877 11/05/2012 12/30/2012 3.00 3.00 A 12.0
+American Public University
+American Military University
+Ima Test Student Name: Im Test
+APO AE DOB: 7/7/XXXX
+StudentID: 4371929
+PHE1000 PHYSICAL 4.00 S
+ATC1403 VISUAL FLIGHT CONTROL 3.00
+ATC1405 ATC NON-RADAR PROCEDURES 1.00
+ATC1408 ATC FUNDAMENTALS 4.00
+MRD1300 BASIC MEDICAL READINESS 1.00
+NUR1324 INTRO OPERATING RM TECHNOLOGY 11.00
+NUR1339 FUND CENTRAL STERIL SUPP 4.00
+NUR1338 OPERATING RM NURSING PRAC 7.00 S
+NUR1339 FUND CENTRAL SUPP 1.00 S
+NUR1104 ORTHOPEDICS 9.00
+LMM1101 LEADERSHIPIMANAGEMENTI 4.00
+LMM1102 MANAGERIAL COMMUNICATIONS 3.00 S
+LMM1103 MILITARY STUDIES 3.00
+INT5000 JOURNEYMAN 8.00
+INT7000 CRAFTSMAN 4.00
+PHE 1000 PHYSICAL 4.00
+LAW1801 MARKSMANSHIP LABORATORY 2.00
+LAW1802 SECURITY OPS AND DUTIES 6.00
+LAW1807 CONFRONTATION MANAGEMENT 1.00
+LAW2814 SECURITY PRACTICUM 2.00
+LAW2832 SECURITY PRACTICUM 2.00
+SEC1803 SECURITY POLICE TACTICS 2.00
+SEC1826 CONVOY GENERATION & MARSH CCAF 6.00
+LMM1112 MANAGERIAL COMM 2.00
+INT5000 8.00
+INT7000 CRAFTSMAN 4.00
+LMM2121 1.00
+LMM2122 MANAGERIAL COMM 1.00
+LMM2123 MILITARY STUDIES 1.00
+LMM2124 QUALITY OF LIFE 1.00
+RS-430V Professional Dynamics 3.0 A 12.0
+NRS-430V Professiona Dynamics 3.0 A 11.1
+NRS-430VProfessiona Dynamics 3.0 A 11.1
+NRS-429V Family-Centered Health Promotion 3.0 A 11.1
+NRS-429VFamily-Centered Health Promotion 3.0 A 11.1
+NRS-434VHealth Assessment 3.0 B- 8.1
+NRS-434V Health Assessment 3.0 B- 8.1
+NRS-427VConcepts in Community and Public Health 3.0 B- 8.1
+NRS-427V Concepts in Community and Public Health 3.0 B- 8.1
+HLT-362V AppliedStatistics for Health Care 3.0 C 6.0
+HLT-362VAppliedStatistics for Health Care 3.0 C 6.0
+NRS-433VIntroduction to Nursing Research 3.0 C+ 6.9
+NRS-433V Introduction to Nursing Research 3.0 C+ 6.9
+NRS-410VPathophysiology and Nursing Management 0.0 F 0.0
+NRS-410V Pathophysiology and Nursing Management 0.0 F 0.0
+NRS-410VPathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-410V Pathophysiology and Nursing Management 3.0 B+ 9.9
+NRS-451VNNursingLeadership and Management 3.0 A- 11.1
+NRS-451VN NursingLeadership and Management 3.0 A- 11.1
+NRS-44OVNTrends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-44OVN Trends and Issues in Today's Health Care 3.0 C+ 6.9
+NRS-490 Professiona Capstone and Practicum 6.0 C 12.0
+GRAND CANYON UNIVERSITY
+Student ID:20266119
+Ima Test (602) 639-7500 Student ID:20266119
+UItimate Medical Academy Online
+Student ID: 4495671
+Student: Ima Test
+DOB: 7/7/1977
+Student GPA: 4.00
+5/8/2017 EN1150 English Composition 3.00 3.00 A 12.00
+6/12/2017 CI1154 Introductionto Healthcare 3.00 3.00 A 12.00
+6/12/2017 HT1000 Introductionto U.S. Healthcare 3.00 3.00 A 12.00
+10/30/2017 HT1100 Introductionto Health 5.50 5.50 A 22.00
+12/4/2017 ME1150 MedicalTerminology 3.00 3.00 A 12.00
+1/22/2018 SC1225 Essentials ofAnatomy& 3.00 3.00 A 12.00
+2/26/2018 ME2515 Pathophysiology& 6.00 6.00 A 24.00
+4/2/2018 MA1015 College Math 3.00 3.00 A 12.00
+5/7/2018 AC2760 Accountingfor Managers 3.00 3.00 A 12.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 A 12.00
+6/11/2018 EN2150 Interpersonal Professional 3.00 3.00 A 12.00
+6/11/2018 Sociology 3.00 3.00 A 12.00
+7/16/2018 HT2125 InternationalClassificationsof 4.00 4.00 A 16.00
+10/29/2018 HT2135 CurrentProcedural Terminology 3.00 3.00 A 12.00
+12/3/2018 HT2245 Health InformationSystems & 6.00 6.00 A 24.00
+1/22/2019 HT2400 Healthcare Reimbursement and 5.00 5.00 A 20.00
+6/12/2017 ME1000 Introductionto Healthcare 3.00 3.00 A 12.00
+7/17/2017 ME2550 Healthcare Settings, Claim 4.00 4.00 B 12.00
+7/17/2017 SS1000 Student Success 1.00 1.00 A 4.00
+8/21/2017 CI1000 Introductionto Computers 2.50 2.50 B 7.50
+8/21/2017 ME1160 MedicalTerminology 4.00 4.00 A 16.00
+9/25/2017 SC2110 Anatomy,Physiologyand 4.00 B 12.00
+10/30/2017 EN1150 EnglishComposition 3.00 3.00 C 6.00
+12/4/2017 CI2000 Computer Fundamentals 3.00 3.00 C 6.00
+12/4/2017 ME1410 Medical Ethics and 4.00 4.00 C 8.00
+1/22/2018 MA1015 CollegeMath 3.00 3.00 C 6.00
+1/22/2018 SC1040 General Biology 3.00 3.00 C 6.00
+2/26/2018 BC2025 DiagnosticCodingforMBC 4.00 4.00 C 8.00
+4/2/2018 BC2530 Procedural Coding forMBC 4.00 4.00 C 8.00
+5/7/2018 EN2150 Interpersonal Professional 3.00 3.00 C 6.00
+5/7/2018 HU2000 Critica Thinkingand Problem 3.00 3.00 C 6.00
+6/11/2018 PS2100 WorkingwithPeople 3.00 3.00 C 6.00
+6/11/2018 S01050 Sociology 3.00 3.00 C 6.00
+7/16/2018 SS2000 Career Success 2.00 2.00 B 6.00
+8/20/2018 BC2535 Procedural Coding IIforMBC 3.50 3.50 C 7.00
+9/24/2018 BC3035 Billingand CodingApplication 3.00 3.00 D 3.00
+Student ID: 4504671
+Student: Ima Test
+DOB: 8/24/1988
+UItimate Medical Academy Online
+Ultimate Medical Academy Online
+Student GPA: 2.40
